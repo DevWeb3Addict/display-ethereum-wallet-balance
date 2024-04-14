@@ -1,0 +1,33 @@
+{
+  "name": "display-ethereum-wallet-balance",
+  "version": "1.0.0",
+  "description": "A simple Node.js application to display the Ethereum wallet balance using the ethereum-wallet-interactor library. Ideal for quickly checking ETH balances directly from the command line.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DevWeb3Addict/display-ethereum-wallet-balance.git"
+  },
+  "homepage": "https://github.com/DevWeb3Addict/display-ethereum-wallet-balance#readme",
+  "keywords": [
+    "ethereum",
+    "wallet",
+    "ETH",
+    "balance",
+    "crypto",
+    "cryptocurrency",
+    "blockchain",
+    "ethereum-wallet",
+    "web3",
+    "nodejs"
+  ],
+  "author": "DevWeb3Addict",
+  "license": "ISC",
+  "dependencies": {
+    "ethereum-wallet-interactor": "^4.0.1",
+    "express": "^4.19.2"
+  }
+}
